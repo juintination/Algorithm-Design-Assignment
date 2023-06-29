@@ -31,5 +31,6 @@ Comparison of QuickSort and LCS Algorithms
 
 ## 참고
 
-- [설계과제#1 동영상](https://youtu.be/SodVD21TndI)
-- [설계과제#2 동영상](https://youtu.be/3SK4hXTHt7Y)
+- [설계과제#1 설명 영상](https://youtu.be/SodVD21TndI)
+- [설계과제#2 설명 영상](https://youtu.be/3SK4hXTHt7Y)
+- [설계과제 설명 영상 대본](https://juintination.notion.site/859d8ce678ba4c1194febc65cba403d5?pvs=4)
